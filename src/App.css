@@ -45,6 +45,13 @@ button {
   gap: 1rem;
 }
 
+.user-name,
+.user-email,
+.user-website {
+  color: white;
+  gap: 0.5rem;
+}
+
 .input {
   width: 100%;
   border: none;
